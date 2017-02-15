@@ -1,0 +1,11 @@
+QA:
+  url: "https://www.amaysim-qaenv.com.au"
+  username: "0468827190"
+  password: "theHoff1101"
+  
+Prod:
+  url: "https://www.amaysim.com.au"
+  username: "0468827174"
+  password: "theHoff34"
+  nickname: "Pedro"
+  pin: "1234"
