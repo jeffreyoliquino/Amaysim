@@ -12,15 +12,13 @@ In order to run this automation you need to do the following:
 	D. Install the other needed Gems. Run this command
 	gem install -- no-ri -- no-rdoc rspec cucumber
 
-2. Clone the soure code in you local, git clone https://github.com/joliquinogit/Amaysim
+2. Clone the soure code in you local. Open command prompt and type, git clone https://github.com/joliquinogit/Amaysim
 
 
-3. Make sure you have Google Chrome browser installed in your machine. If Google Chrome is not installed in you machine, you need to download and install it.
+3. Install the Bundler. Open command prompt and type gem install bundler. Then hit enter.
 
 
-
-4. Install the Bundler. Open command prompt and type gem install bundler. Then hit enter.
-
+4. Install the Gemfile by executing the bundler. Open command prompt and type bundle install and hit enter.
 
 
 5. Download and extract chromedriver.
