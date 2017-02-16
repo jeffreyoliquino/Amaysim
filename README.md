@@ -31,22 +31,11 @@ In order to run this automation you need to do the following:
 		- Go to the end of the path and add ; then enter the path of the chrome driver.Then click OK
 
 
-6. Before running the script check the following on the site
-	A. SIM Nickname should not be Pedro
-	B. Recharge Pin should not be 1234
-	C. Called ID checkbox should be unchecked
-	D. Call Waiting checkbox should be unchecked
-	E. Voicemail checkbox should be unchecked
-	F. Usage alerts checkbox should be unchecked
-	G. International Roaming checkbox should be unchecked
-
-
-
 7. Running the scripts
 	A. Make sure all files needed are avaiable.
 	B. Open command Prompt
 	C. Change directory to where the files were saved
-	D. Type "cucumber features\Manage_Settings.feature TEST_ENV = PROD or QA depending on where you would like to run the script
+	D. Type "cucumber features\Manage_Settings.feature TEST_ENV=Prod or QA depending on where you would like to run the script
 	E. Hit Enter
 
 
