@@ -7,5 +7,8 @@ Prod:
   url: "https://www.amaysim.com.au"
   username: "0468827174"
   password: "theHoff34"
-  nickname: "Pedro"
-  pin: "1234"
+  new_nickname: "Pedro"
+  old_nickname: "Kurt"
+  new_pin: "1234"
+  new_pin: "5678"
+  
