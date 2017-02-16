@@ -12,7 +12,7 @@ In order to run this automation you need to do the following:
 	D. Install the other needed Gems. Run this command
 	gem install -- no-ri -- no-rdoc rspec cucumber
 
-2. Initialize cucumber so the following folders will be created, features, step_definitions and support. Execute this command, cucumber --init
+2. Clone the soure code in you local, git clone https://github.com/joliquinogit/Amaysim
 
 
 3. Make sure you have Google Chrome browser installed in your machine. If Google Chrome is not installed in you machine, you need to download and install it.
@@ -24,7 +24,7 @@ In order to run this automation you need to do the following:
 
 
 5. Download and extract chromedriver.
-	A. Download and Extract the file. Copy the location where you extract the file. Example: C:\Users\you\Documents\DVC Files\03. Other Files\01. Ruby\chromedriver_win32.
+	A. Included is the chromedriver located in Browser_Driver folder. Copy the file in your local.
 	B. Make sure to indicate the path of the chromedriver_win32 in Environment System variable. Do the following:
 		- The go to Start – Right-click on Computer then select Properties. Click on Advance system settings:
 		- Click Advance Tab
